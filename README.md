@@ -273,6 +273,7 @@ Put your Facebook appstate inside:
 
 ```
 ncstate.json
+ncstate2.json
 ```
 
 If main ID gets checkpoint or problem,
